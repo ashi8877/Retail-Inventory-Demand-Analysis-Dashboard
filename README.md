@@ -1,6 +1,11 @@
 # Retail-Inventory-Demand-Analysis-Dashboard
 Interactive Excel dashboard for retail inventory, demand analysis, sales performance, and business insights.
 # Retail Inventory & Demand Analysis Dashboard
+# Retail Inventory & Demand Analysis Dashboard
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ## Project Overview
 This project is an interactive Excel dashboard built to analyze retail inventory, sales performance, demand trends, and profitability. The dashboard helps businesses monitor key metrics, identify high-performing products, and make data-driven inventory decisions.
